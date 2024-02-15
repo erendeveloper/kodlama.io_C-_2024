@@ -1,0 +1,14 @@
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\bin\Debug\net8.0\kodlama.io_page.exe
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\bin\Debug\net8.0\kodlama.io_page.deps.json
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\bin\Debug\net8.0\kodlama.io_page.runtimeconfig.json
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\bin\Debug\net8.0\kodlama.io_page.dll
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\bin\Debug\net8.0\kodlama.io_page.pdb
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\obj\Debug\net8.0\kodlama.io_page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\obj\Debug\net8.0\kodlama.io_page.AssemblyInfoInputs.cache
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\obj\Debug\net8.0\kodlama.io_page.AssemblyInfo.cs
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\obj\Debug\net8.0\kodlama.io_page.csproj.CoreCompileInputs.cache
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\obj\Debug\net8.0\kodlama.io_page.dll
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\obj\Debug\net8.0\refint\kodlama.io_page.dll
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\obj\Debug\net8.0\kodlama.io_page.pdb
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\obj\Debug\net8.0\kodlama.io_page.genruntimeconfig.cache
+C:\Users\EA\Desktop\Engin Demirog\kodlama.io_page\kodlama.io_page\obj\Debug\net8.0\ref\kodlama.io_page.dll

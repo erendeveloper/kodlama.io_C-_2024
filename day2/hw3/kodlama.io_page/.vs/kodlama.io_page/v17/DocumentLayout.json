@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\business\\abstracts\\iinstructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\business\\abstracts\\iinstructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\dataaccess\\concretes\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\dataaccess\\concretes\\instructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\business\\concretes\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\business\\concretes\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\business\\concretes\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\business\\concretes\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\business\\concretes\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\business\\concretes\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\dataaccess\\concretes\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\dataaccess\\concretes\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\dataaccess\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\dataaccess\\abstracts\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\business\\abstracts\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\business\\abstracts\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\business\\abstracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\business\\abstracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\dataaccess\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\dataaccess\\abstracts\\iinstructordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\entities\\concretes\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\entities\\concretes\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\entities\\concretes\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\entities\\concretes\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\entities\\concretes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\entities\\concretes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\entities\\abstracts\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\entities\\abstracts\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|c:\\users\\ea\\desktop\\engin demirog\\kodlama.io_page\\kodlama.io_page\\kodlama.io_page.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{353249E0-714F-46DD-AA39-B009C0A70E04}|kodlama.io_page\\kodlama.io_page.csproj|solutionrelative:kodlama.io_page\\kodlama.io_page.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IInstructorService.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Business\\Abstracts\\IInstructorService.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\Business\\Abstracts\\IInstructorService.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Business\\Abstracts\\IInstructorService.cs",
+              "RelativeToolTip": "kodlama.io_page\\Business\\Abstracts\\IInstructorService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:08:07.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Program.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\Program.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Program.cs",
+              "RelativeToolTip": "kodlama.io_page\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:43:55.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Business\\Concretes\\CourseManager.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\Business\\Concretes\\CourseManager.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Business\\Concretes\\CourseManager.cs",
+              "RelativeToolTip": "kodlama.io_page\\Business\\Concretes\\CourseManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:51:10.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InstructorManager.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Business\\Concretes\\InstructorManager.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\Business\\Concretes\\InstructorManager.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Business\\Concretes\\InstructorManager.cs",
+              "RelativeToolTip": "kodlama.io_page\\Business\\Concretes\\InstructorManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T18:55:47.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\DataAccess\\Concretes\\CourseDal.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\DataAccess\\Concretes\\CourseDal.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\DataAccess\\Concretes\\CourseDal.cs",
+              "RelativeToolTip": "kodlama.io_page\\DataAccess\\Concretes\\CourseDal.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:50:51.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Business\\Concretes\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\Business\\Concretes\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Business\\Concretes\\CategoryManager.cs",
+              "RelativeToolTip": "kodlama.io_page\\Business\\Concretes\\CategoryManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T18:56:22.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstructorDal.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\DataAccess\\Concretes\\InstructorDal.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\DataAccess\\Concretes\\InstructorDal.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\DataAccess\\Concretes\\InstructorDal.cs",
+              "RelativeToolTip": "kodlama.io_page\\DataAccess\\Concretes\\InstructorDal.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T18:58:48.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\DataAccess\\Concretes\\CategoryDal.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\DataAccess\\Concretes\\CategoryDal.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\DataAccess\\Concretes\\CategoryDal.cs",
+              "RelativeToolTip": "kodlama.io_page\\DataAccess\\Concretes\\CategoryDal.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAArwBkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T18:58:27.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "RelativeToolTip": "kodlama.io_page\\DataAccess\\Abstracts\\ICategoryDal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:00:05.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Business\\Abstracts\\ICourseService.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\Business\\Abstracts\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Business\\Abstracts\\ICourseService.cs",
+              "RelativeToolTip": "kodlama.io_page\\Business\\Abstracts\\ICourseService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:07:53.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Business\\Abstracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\Business\\Abstracts\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Business\\Abstracts\\ICategoryService.cs",
+              "RelativeToolTip": "kodlama.io_page\\Business\\Abstracts\\ICategoryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:07:25.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeToolTip": "kodlama.io_page\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:53:36.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IInstructorDal.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "RelativeToolTip": "kodlama.io_page\\DataAccess\\Abstracts\\IInstructorDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T18:59:33.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Entities\\Concretes\\Instructor.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\Entities\\Concretes\\Instructor.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Entities\\Concretes\\Instructor.cs",
+              "RelativeToolTip": "kodlama.io_page\\Entities\\Concretes\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:46:17.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Entities\\Concretes\\Course.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\Entities\\Concretes\\Course.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Entities\\Concretes\\Course.cs",
+              "RelativeToolTip": "kodlama.io_page\\Entities\\Concretes\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:45:45.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Entities\\Concretes\\Category.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\Entities\\Concretes\\Category.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Entities\\Concretes\\Category.cs",
+              "RelativeToolTip": "kodlama.io_page\\Entities\\Concretes\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:46:08.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Entities\\Abstracts\\IEntity.cs",
+              "RelativeDocumentMoniker": "kodlama.io_page\\Entities\\Abstracts\\IEntity.cs",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\Entities\\Abstracts\\IEntity.cs",
+              "RelativeToolTip": "kodlama.io_page\\Entities\\Abstracts\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T20:53:36.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "kodlama.io_page.csproj",
+              "DocumentMoniker": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\kodlama.io_page.csproj",
+              "RelativeDocumentMoniker": "kodlama.io_page\\kodlama.io_page.csproj",
+              "ToolTip": "C:\\Users\\EA\\Desktop\\Engin Demirog\\kodlama.io_page\\kodlama.io_page\\kodlama.io_page.csproj",
+              "RelativeToolTip": "kodlama.io_page\\kodlama.io_page.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-15T17:44:14.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kodlama.io_page/1.0.0": {
+        "runtime": {
+          "kodlama.io_page.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kodlama.io_page/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
